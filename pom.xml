@@ -13,6 +13,7 @@
         <module>testng</module>
         <module>junit</module>
         <module>model</module>
+        <module>owner</module>
     </modules>
 
 
